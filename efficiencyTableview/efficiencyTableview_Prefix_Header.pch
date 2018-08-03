@@ -1,0 +1,18 @@
+//
+//  efficiencyTableview-PrefixHeader.pch
+//  efficiencyTableview
+//
+//  Created by admin on 2018/7/31.
+//  Copyright © 2018年 admin. All rights reserved.
+//
+
+#ifndef efficiencyTableview_PrefixHeader_pch
+#define efficiencyTableview_PrefixHeader_pch
+
+//#ifndef __OBJC__
+
+#import "Masonry.h"
+#import "UIImageView+WebCache.h"
+//#endif
+
+#endif /* efficiencyTableview_PrefixHeader_pch */
